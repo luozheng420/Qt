@@ -1,3 +1,17 @@
+Qt开发环境搭建
+|Visual Studio
+|-安装VS之后，再安装Qt开发包，再安装VS-qt开发插件就可以开发调试了
+|QtCreator
+|-如果在Linux环境下，安装Qt开发包后，自动检测gcc gdb，也可以直接开发调试
+
+QT进程间通信
+QSharedMemory
+
+事件过滤
+事件重写
+
+
+
 QWidget
 
 Qml
